@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.7",
+  "package": "com.github.zyxgad.whitelist_mod.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+  ],
+  "server": [
+    "PlayerManagerMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
